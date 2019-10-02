@@ -19,6 +19,6 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | link to my contribution    | Blog Edit    |   I fixed a broken link.    |
+|  4   | https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/issues/7    | https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/blob/gh-pages/_posts/2019-09-11-week02.md   |    Fixed readability in blog 2   |
 |     |     |     |      |
 |     |     |     |      |
