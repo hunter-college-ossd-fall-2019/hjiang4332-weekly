@@ -19,7 +19,7 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   |   https://www.openstreetmap.org/changeset/74404257  |  Open Street Map Edit   |      |
+|  2   |   https://www.openstreetmap.org/changeset/74404257  |  Open Street Map Edit   |   Edited classy jewelry   |
 |  4   | https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/issues/7    | Blog post edit: https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/blob/gh-pages/_posts/2019-09-11-week02.md   |    Fixed readability in blog 2   |
-|     |     |     |      |
+|  5   |  https://www.openstreetmap.org/changeset/76317295   |  Open Street Map Edit   |   Edited hotel 50 bowrey   |
 |     |     |     |      |
