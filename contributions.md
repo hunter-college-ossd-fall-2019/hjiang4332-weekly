@@ -19,11 +19,11 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   |   https://www.openstreetmap.org/changeset/74404257  |  Open Street Map Edit 1  |   Edited classy jewelry   |
-|  4   | https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/issues/7    | Blog post edit: https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/blob/gh-pages/_posts/2019-09-11-week02.md   |    Fixed readability in blog 2   |
-|  9   |  https://www.openstreetmap.org/changeset/76317295   |  Open Street Map Edit 2  |   Edited hotel 50 bowrey   |
-|  10   |   https://www.openstreetmap.org/changeset/76320670  |  Open Street Map Edit 3   |   Added OS Studios   |
-|  10  |   https://www.openstreetmap.org/changeset/76320746  |  Open Street Map Edit 4   |   Added Tony Moly   |
-|  10   |  https://www.openstreetmap.org/changeset/76320807   |  Open Street Map Edit 5   |   Added Canal Street Market Retail  |
+|  2   |   [Open Street Map 1](https://www.openstreetmap.org/changeset/74404257)  |  Open Street Map Edit 1  |   Edited classy jewelry   |
+|  4   | [Zabari's Blog](https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/issues/7)    | [Blog post edit](https://github.com/hunter-college-ossd-fall-2019/Zabari-weekly/blob/gh-pages/_posts/2019-09-11-week02.md)   |    Fixed readability in blog 2   |
+|  9   |  [Open Street Map 2](https://www.openstreetmap.org/changeset/76317295)  |  Open Street Map Edit 2  |   Edited hotel 50 bowrey   |
+|  10  |  [Open Street Map 3](https://www.openstreetmap.org/changeset/76320670)  |  Open Street Map Edit 3  |   Added OS Studios   |
+|  10  |  [Open Street Map 4](https://www.openstreetmap.org/changeset/76320746)  |  Open Street Map Edit 4  |   Added Tony Moly   |
+|  10  |  [Open Street Map 5](https://www.openstreetmap.org/changeset/76320807)  |  Open Street Map Edit 5  |   Added Canal Street Market Retail  |
 
 [Megalink to history](https://www.openstreetmap.org/user/PTXD/history#map=14/40.7308/-73.9954)
