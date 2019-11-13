@@ -25,5 +25,7 @@ Replace the first row below with your contribution.
 |  10  |  [Open Street Map 3](https://www.openstreetmap.org/changeset/76320670)  |  Open Street Map Edit 3  |   Added OS Studios   |
 |  10  |  [Open Street Map 4](https://www.openstreetmap.org/changeset/76320746)  |  Open Street Map Edit 4  |   Added Tony Moly   |
 |  10  |  [Open Street Map 5](https://www.openstreetmap.org/changeset/76320807)  |  Open Street Map Edit 5  |   Added Canal Street Market Retail  |
+|  11  |  [Wikipedia edit 1](https://en.wikipedia.org/w/index.php?title=Dead_by_Daylight&diff=prev&oldid=925872333)  |  Wikipedia Edit  |  Edited Dead by Daylight Wiki  |
 
-[Megalink to history](https://www.openstreetmap.org/user/PTXD/history#map=14/40.7308/-73.9954)
+[Megalink to OpenStreetMap edit history](https://www.openstreetmap.org/user/PTXD/history#map=14/40.7308/-73.9954)
+[Megalink to Wikipedia edit history](https://en.wikipedia.org/wiki/Special:Contributions/PTXD)
