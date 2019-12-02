@@ -28,8 +28,8 @@ Replace the first row below with your contribution.
 |  10  |  [30-seconds-of-css pull request](https://github.com/30-seconds/30-seconds-of-css/pull/168)  |  repository contribution  |  Added code snippet - four-secion-split-screen  |
 |  11  |  [Wikipedia edit 1](https://en.wikipedia.org/w/index.php?title=Dead_by_Daylight&diff=prev&oldid=925872333)  |  Wikipedia Edit  |  Edited Dead by Daylight Wiki  |
 |  11  |  [Wikipedia edit 2](https://en.wikipedia.org/w/index.php?title=Summoners_War:_Sky_Arena&diff=prev&oldid=925995368&diffmode=source)  |  Wikipedia Edit  |  Edited Summoner's War Wiki  |
-|  12  |  [Wikipedia edit 3](https://en.wikipedia.org/w/index.php?title=Dead_by_Daylight&diff=prev&oldid=927177849&diffmode=source)  |  Dead by Daylight Wiki Edit   |  Small correction   |
-|  12  |  [Wikipedia edit 4](https://en.wikipedia.org/w/index.php?title=Dead_by_Daylight&diff=prev&oldid=927178729&diffmode=source)  |  Dead by Daylight Edit  |  Small correction  |
+|  12  |  [Wikipedia edit 3](https://en.wikipedia.org/w/index.php?title=Dead_by_Daylight&diff=prev&oldid=927177849&diffmode=source)  |  Wikipedia Edit   |  Small correction in Dead by Daylight wiki  |
+|  12  |  [Wikipedia edit 4](https://en.wikipedia.org/w/index.php?title=Dead_by_Daylight&diff=prev&oldid=927178729&diffmode=source)  |  Wikipedia Edit  |  Small correction in Dead by Daylight wiki  |
 |  13  |  [30-seconds-of-cpp pull request](https://github.com/Bhupesh-V/30-seconds-of-cpp/pull/454)  |  repository contribution  |  added merge snippet in list  |
 |  13  |  [30-seconds-of-cpp pull request](https://github.com/Bhupesh-V/30-seconds-of-cpp/pull/456)  |  repository contribution  |  fixed a typo leading to a 404 page  | 
 
