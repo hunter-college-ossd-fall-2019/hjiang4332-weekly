@@ -31,8 +31,8 @@ Replace the first row below with your contribution.
 |  12  |  [Wikipedia edit 3](https://en.wikipedia.org/w/index.php?title=Dead_by_Daylight&diff=prev&oldid=927177849&diffmode=source)  |  Wikipedia Edit   |  Small correction in Dead by Daylight wiki  |
 |  12  |  [Wikipedia edit 4](https://en.wikipedia.org/w/index.php?title=Dead_by_Daylight&diff=prev&oldid=927178729&diffmode=source)  |  Wikipedia Edit  |  Small correction in Dead by Daylight wiki  |
 |  12  |  [first-contributions pull request](https://github.com/firstcontributions/first-contributions/pull/23558)  |  repository contribution #2  |  added name  | 
-|  13  |  [30-seconds-of-cpp pull request](https://github.com/Bhupesh-V/30-seconds-of-cpp/pull/454)  |  repository contribution  |  added merge snippet in list #3  |
-|  13  |  [30-seconds-of-cpp pull request](https://github.com/Bhupesh-V/30-seconds-of-cpp/pull/456)  |  repository contribution  |  fixed a typo leading to a 404 page #4  | 
+|  13  |  [30-seconds-of-cpp pull request](https://github.com/Bhupesh-V/30-seconds-of-cpp/pull/454)  |  repository contribution #3  |  added merge snippet in list  |
+|  13  |  [30-seconds-of-cpp pull request](https://github.com/Bhupesh-V/30-seconds-of-cpp/pull/456)  |  repository contribution #4  |  fixed a typo leading to a 404 page  | 
 
 [Megalink to OpenStreetMap edit history](https://www.openstreetmap.org/user/PTXD/history#map=14/40.7308/-73.9954)  
 [Megalink to Wikipedia edit history](https://en.wikipedia.org/wiki/Special:Contributions/PTXD)
